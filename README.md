@@ -13,8 +13,8 @@
 ## Tutorial
 
 ## Main Repo
-https://github.com/LituRout/PSLD
-https://huggingface.co/spaces/PSLD/PSLD/tree/main
+https://github.com/LituRout/PSLD <br />
+https://huggingface.co/spaces/PSLD/PSLD/tree/main <br />
 
 ## Page
 
