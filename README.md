@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PSLD-colab/blob/main/PSLD_colab.ipynb) | PSLD_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PSLD-colab/blob/main/PSLD_colab.ipynb) | PSLD_colab (Pro)
 
 ## Tutorial
 
